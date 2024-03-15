@@ -89,8 +89,8 @@ body.dark-mode {
   color: var(--primary);
 }
 
-#menu{
-  display:none;
+#menu {
+  display: none;
 }
 
 .navbar .navbar-hidden label {
@@ -144,10 +144,6 @@ body.dark-mode {
 .navbar .navbar-hidden label:after {
   transition: 0.3s;
 }
-
-
-
-
 
 /* Media Queries */
 
